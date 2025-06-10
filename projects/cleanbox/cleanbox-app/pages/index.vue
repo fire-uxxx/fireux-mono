@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Welcome to FireUX!</h1>
-    <p>This is the main page of the FireUX app.</p>
+    <h1>Welcome to Cleanbox!</h1>
+    <p>This is the main page of the Cleanbox app.</p>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ export default {
 
 <style scoped>
 h1 {
-  color: #ff5733;
+  color: #007bff;
 }
 p {
   font-size: 1.2rem;

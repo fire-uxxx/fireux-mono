@@ -1,19 +1,19 @@
 <template>
   <div>
-    <h1>Welcome to FireUX!</h1>
-    <p>This is the main page of the FireUX app.</p>
+    <h1>Hello, FireUX!</h1>
+    <p>Welcome to the FireUX app.</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'HelloPage',
 }
 </script>
 
 <style scoped>
 h1 {
-  color: #ff5733;
+  color: #ff6600;
 }
 p {
   font-size: 1.2rem;
