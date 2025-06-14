@@ -3,7 +3,7 @@
 <template>
   <div class="page">
     <FireLogoBrand size="hero" />
-    <h1>Hello FireUX!</h1>
+    <h1>Hello MiseBox!</h1>
   </div>
 </template>
 
