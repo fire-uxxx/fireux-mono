@@ -46,11 +46,12 @@
   </div>
 </template>
 
-<script setup>
-const props = defineProps({
-  supplier: {
-    type: Object,
-    required: true,
-  },
-})
+<script setup lang="ts">
+import type { Supplier } from '../../../models/profiles/Supplier.model'
+
+interface Props {
+  supplier: Supplier
+}
+
+defineProps<Props>()
 </script>
